@@ -1,0 +1,207 @@
+.heading
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.heading > ul
+{
+    padding-top: 10px;
+}
+.heading > ul > li 
+{
+    display: inline;
+    margin-right: 10px;
+}
+.login
+{
+    float: right;
+    color: white;
+    margin-top: -30px;
+    margin-right: 100px;
+}
+.baner > img
+{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.date > p
+{
+    color: gray;
+    margin-left: 50px;
+    font-size: small;
+}
+.menu 
+{
+    float: right;
+    font-size: small;
+    color: grey;
+    margin-top: -41px;
+}
+.menu > ul > li
+{
+    display: inline;
+    margin-right: 10px;
+}
+.section
+{
+    margin-left: 100px;
+    border: solid;
+    width: 100px;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: lightgray;
+}
+.logo
+{
+    margin-left: 390px;
+    margin-top: -80px;
+}
+.menu1 
+{
+    border-top: 5px solid; 
+}
+.menu1 > ul > li
+{
+    list-style-type: none;
+    display: inline;
+    margin-right: 24px;
+}
+.baner2 > img 
+{
+    margin-left: 180px;
+}
+.box1
+{
+    width: 300px;
+    height: 130px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+}
+.box1 > p
+{
+    margin-left: 120px;
+    margin-top: -110px;
+    font-size: small;
+    font-weight: bold;
+}
+.box2
+{
+    width: 300px;
+    height: 130px;
+    margin-left: 330px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -150PX;
+}
+.box2 > p
+{
+    margin-left: 120PX;
+    margin-top: -110PX;
+    font-size: small;
+    font-weight: bold;
+}
+.box3
+{
+    width: 300px;
+    height: 130px;
+    margin-left: 660px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -150px;
+}
+.box3 > p
+{
+    margin-left: 120px;
+    margin-top: -120px;
+    font-size: small;
+    font-weight: bold;
+}
+.box4
+{
+    width: 300px;
+    height: 130px;
+    margin-left: 990px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: -150px;
+}
+.box4 > p
+{
+    margin-left: 120px;
+    margin-top: -120px;
+    font-size: small;
+    font-weight: bold;
+}
+.NEWS1
+{
+    margin-bottom: 100px;
+    width: 400px;
+}
+.NEWS1 > p
+{
+    margin-top: -320px;
+    font-weight: bold;
+}
+.NEWS1 > img
+{
+    margin-top: 60px;
+}
+.news2
+{
+    margin-left: 490px;
+    margin-top: -180px;
+}
+.news2 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -45px;
+}
+.news3
+{
+    margin-left: 490px;
+    margin-top: 20px;
+}
+.news3 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -45px;
+}
+.news4
+{
+    margin-left: 490px;
+    margin-top: 20px;
+}
+.news4 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -45px;
+}
+.news5
+{
+    margin-top: 20px;
+}
+.news5 > p
+{
+    width: 350px;
+    font-size: small;
+    margin-left: 95px;
+    margin-top: -49px;
+}
+.add1
+{
+    margin-left: 960px;
+    margin-top: -250px;
+}
